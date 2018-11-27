@@ -1,21 +1,21 @@
 {
-  "name": "liu_an_portfolio",
+  "name": "An_Liu_ICE4E",
   "version": "1.0.0",
-  "description": "personal portfolio",
+  "description": "An_Liu_ICE4E",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/an-liu1/Liu_An_Portfolio.git"
+    "url": "git+https://github.com/an-liu1/An_Liu_ICE4E.git"
   },
   "author": "An Liu",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/an-liu1/Liu_An_Portfolio/issues"
+    "url": "https://github.com/an-liu1/An_Liu_ICE4E/issues"
   },
-  "homepage": "https://github.com/an-liu1/Liu_An_Portfolio#readme",
+  "homepage": "https://github.com/an-liu1/An_Liu_ICE4E#readme",
   "dependencies": {
     "animate.css": "^3.7.0",
     "global": "^4.3.2"
